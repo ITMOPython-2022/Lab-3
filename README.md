@@ -35,4 +35,5 @@ DEC-число - число в десятичном формате
 HEX-число - число в шестнадцатеричном формате  
 Для перевода HEX в DEC можно воспользоваться конструкцией ```dec = int(hex, 16)```
 
-Об использовании tkinter: https://pythonru.com/uroki/obuchenie-python-gui-uroki-po-tkinter
+Об использовании tkinter: https://pythonru.com/uroki/obuchenie-python-gui-uroki-po-tkinter  
+Функционал random: https://docs.python.org/3/library/random.html
